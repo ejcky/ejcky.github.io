@@ -6,3 +6,11 @@ body {
 a {
   color: white;
 }
+
+.home-title {
+  font-style: italic;
+}
+
+.main {
+  margin-left: 5px;
+}
